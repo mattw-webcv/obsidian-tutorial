@@ -9,19 +9,18 @@ tags:
 This page will go over initial impressions of the ui (user interface).
 Starting with the top, reading left to right.
 
-## Top bar: The very top horizontal pane
+### Top bar: The very top horizontal pane
 
-### Side bar toggles.
+### Side bar toggles
 The little sidebar button is first of 2.
 One on the far left, the other to the far right.
-These collapse and expand the various plugins and views.
-The left sidebar deals with viewing your vault/working directory.
+These collapse and expand for viewing plugins.
+The left sidebar deals more with viewing your vault/working directory.
+The right sidebar deals with secondary plugins around managing and organising the vault.
 These sidebars will be your most commonly used spaces other than the main content workspace.
 
-At the bottom of the left sidebar are 
-The vault selection menu, and 2 buttons.
+At the bottom of the left sidebar are the vault selection menu, and 2 buttons.
 The gear icon for settings gives you customisation of the vault.
-
 
 ### Tabs
 Just as you'd view firefox or chrome tabs.

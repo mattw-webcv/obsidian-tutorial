@@ -2,6 +2,8 @@
 up: "[[Start here]]"
 Neighbours:
   - "[[Frontmatter and links|Frontmatter]]"
+tags:
+  - ObsidianTutorial
 ---
 
 This page will go over initial impressions of the ui (user interface).

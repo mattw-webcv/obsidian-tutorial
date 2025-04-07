@@ -4,6 +4,8 @@ Neighbours:
   - "[[Gui]]"
 aliases:
   - Frontmatter
+tags:
+  - ObsidianTutorial
 ---
 
 ## Frontmatter properties and classes

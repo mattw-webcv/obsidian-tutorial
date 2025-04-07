@@ -5,6 +5,20 @@ Children:
 tags:
   - ObsidianTutorial
 ---
+
+## Obsidian is free to use and very competent.
+This tutorial will enable you to achieve 90% of what obsidian is capable of.
+https://obsidian.md/download
+
+Upon downloading and installing, run the program and choose a folder to use as a vault.
+A 'vault' is simply the folder you work in and put all your files for organisation.
+
+https://github.com/mattw-webcv/obsidian-tutorial/tree/main
+On the right, there is a green button '<> Code'
+Left click, and choose download as zip.
+Unzip the file, and move the files into your vault.
+
+## After installation
 By now, you have Obsidian installed and are potentially faced with many unfamiliar things.
 The linked pages will overview the various most commonly used facets of Obsidian.
 
@@ -23,23 +37,17 @@ Plugins, frontmatter formatting, and settings are where non markdown (md) coding
 ### Comparing markdown to other file formats
 To see the differences between markdown and other formatting languages:
 Open one of these markdown files in a text editor such as windows notepad.
+Now you've seen what markdown code looks like normally.
 
 Then, separately find a microsoft office file such as a .docx or .doc.
 Make a copy of it in the same folder and rename the extension from .docx to .txt
+This will tell the OS to use notepad instead of microsoft office when opening the file.
 
-Then try to open that renamed file with windows notepad, and see whether or not you can easily read the content.
+Then try to open that renamed file with windows notepad, and see whether or not you can easily read the content. This is what the text editor sees when reading the raw data of the file.
 
-## Obsidian is free to use and very competent.
-This tutorial will enable you to achieve 90% of what obsidian is capable of with plugins.
-https://obsidian.md/download
+The comparison here is to demonstrate that markdown can be easily read by even a basic text editor and human.
 
-Upon downloading and installing, run the program and choose a folder to use as a vault.
-A 'vault' is simply the folder you work in and put all your files for organisation.
 
-https://github.com/mattw-webcv/obsidian-tutorial/tree/main
-On the right, there is a green button '<> Code'
-Left click, and choose download as zip.
-Unzip the file, and move the files into your vault.
 
 
 [[Gui]]

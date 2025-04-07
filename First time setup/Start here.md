@@ -19,6 +19,17 @@ There are various plugins for obsidian which add features designed to streamline
 
 Plugins, frontmatter formatting, and settings are where non markdown (md) coding is used, but this point is only relevant for people learning about those languages and formatting systems.
 
+
+### Comparing markdown to other file formats
+To see the differences between markdown and other formatting languages:
+Open one of these markdown files in a text editor such as windows notepad.
+
+Then, separately find a microsoft office file such as a .docx or .doc.
+Make a copy of it in the same folder and rename the extension from .docx to .txt
+
+Then try to open that renamed file with windows notepad, and see whether or not you can easily read the content.
+
+
 [[Gui]]
 [[Frontmatter and links|Frontmatter]]
 

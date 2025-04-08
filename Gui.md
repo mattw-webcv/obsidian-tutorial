@@ -6,10 +6,11 @@ tags:
   - ObsidianTutorial
 ---
 
-This page will go over initial impressions of the ui (user interface).
+## This page will go over initial impressions of the user interface 
 Starting with the top, reading left to right.
 
-### Top bar: The very top horizontal pane
+## Top bar: The very top horizontal pane
+---
 
 ### Side bar toggles
 The little sidebar button is first of 2.
@@ -24,16 +25,17 @@ The gear icon for settings gives you customisation of the vault.
 
 ### Tabs
 Just as you'd view firefox or chrome tabs.
--Left mouse button opens the file, replacing whatever you have open.
--Mouse wheel click opens in new tab
--Right click is context menu
--A nuanced but convenient feature is "Split right"- this opens a tab on the right side, creating a side-by-side 'book' view of tabs.
+- Left mouse button opens the file, replacing whatever you have open.
+- Mouse wheel click opens in new tab
+- Right click is context menu
+- A nuanced but convenient feature is "Split right"- this opens a tab on the right side, creating a side-by-side 'book' view of tabs.
 
 ### Left vertical shortcut icons
+---
 Commonly referenced plugins/commands/shortcuts will be listed here
 
 ##  Main content view
-
+---
 - This is the main content workspace
 
 At the top, are various things
@@ -54,9 +56,9 @@ Adding frontmatter in a way Obsidian recognises requires the use of the immediat
 If you type the trigger in the top line under the title, Obsidian gives you dropdown property menus for frontmatter.
 If you type the 3x hyphens in a row on the second line after the Title, you get:
 
----
 
-### Settings
+## Settings
+---
 
 The settings pane is relatively self explanatory, with the following exceptions:
 
@@ -89,7 +91,7 @@ Sync and Publish involve paying for online sync service.
 
 Templates involve assigning a folder to be the template folder, and then adding files into that folder you want to use as templates.
 
-### Community plugins>
+#### Community plugins>
 By default, restricted mode is turned on.
 Restricted mode means community plugins cannot be browsed and installed.
 

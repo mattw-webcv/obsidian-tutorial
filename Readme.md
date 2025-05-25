@@ -14,6 +14,7 @@ This tutorial will enable you to achieve 90% of what obsidian is capable of. Upo
 A 'vault' is simply the folder on your computer Obsidian works within for your projects and organisation.
 This vault can be created beforehand by opening file explorer- navigating to where you want to store the vault, and creating a folder with your desired name.
 https://obsidian.md/download
+https://help.obsidian.md/install
 
 ### This Obsidian Tutorial
 https://github.com/mattw-webcv/obsidian-tutorial/tree/main

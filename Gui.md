@@ -43,8 +43,8 @@ https://help.obsidian.md/ribbon
 ---
 - This is the main content workspace
 
-At the top, are various things
-- Such as arrow navigation
+At the top, are various things, such as:
+- Arrow navigation on the left
 - Centred is the current directory of the file being worked on
 - On the right is a toggle for switching between reader/editor/source code view
 	- This can be tricky and unintuitive to interact with, but the toggle only applies to the current opened tab. Which means closing and reopening the tab resets the view

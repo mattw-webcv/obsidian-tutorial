@@ -1,8 +1,13 @@
 ---
 tags:
   - ObsidianTutorial
-up: 
-Neighbours: 
+up:
+  - "[[Protoform-Learning/Tutorials/Obsidian-Tut/Readme]]"
+Neighbours:
+  - "[[Gui]]"
+  - "[[Frontmatter and links|Frontmatter]]"
+  - "[[Plugins]]"
+  - "[[Format-Comparison]]"
 Resources:
 ---
 

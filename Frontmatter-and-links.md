@@ -1,11 +1,13 @@
 ---
-up: "[[Start here]]"
-Neighbours:
-  - "[[Gui]]"
-aliases:
-  - Frontmatter
 tags:
   - ObsidianTutorial
+up:
+  - "[[Protoform-Learning/Tutorials/Obsidian-Tut/Readme]]"
+Neighbours:
+  - "[[Gui]]"
+  - "[[Plugins]]"
+aliases:
+  - Frontmatter
 ---
 
 ## Frontmatter properties and classes
@@ -31,7 +33,7 @@ Link, and alias (shorthand reference name).
 The order of link and alias depends on if it's internal or external.
 
 A link is created by double square brackets
-A link alias is used with the pipe '|'
+A link alias is triggered/joined with the pipe '|'.
 There should be no spaces between the link and alias.
 
 For example, highlight these links:
@@ -39,3 +41,7 @@ For example, highlight these links:
 
 External source
 [Obsidian links](https://help.obsidian.md/links)
+
+Previous Next
+[[Gui]]
+[[Plugins]]

@@ -1,38 +1,40 @@
 ---
-up: "[[Start here]]"
-Neighbours:
-  - "[[Frontmatter and links|Frontmatter]]"
 tags:
   - ObsidianTutorial
+up:
+  - "[[Protoform-Learning/Tutorials/Obsidian-Tut/Readme]]"
+Neighbours:
+  - "[[Frontmatter and links|Frontmatter]]"
+  - "[[Plugins]]"
 ---
 
-## This page will go over initial impressions of the user interface 
+### This page will go over initial impressions of the user interface 
 Starting with the top, reading left to right.
 
-## Top bar: The very top horizontal pane
+#### Top bar: The very top horizontal pane
 ---
 
-### Side bar toggles
-The little sidebar button is first of 2.
-One on the far left, the other to the far right.
-These collapse and expand for viewing plugins.
+##### Side bar toggles
+There are 2 sidebar buttons. One on the far left, the other to the far right. These collapse and expand for viewing plugins.
 The left sidebar deals more with viewing your vault/working directory.
+
 The right sidebar deals with secondary plugins around managing and organising the vault.
 These sidebars will be your most commonly used spaces other than the main content workspace.
 
 At the bottom of the left sidebar are the vault selection menu, and 2 buttons.
 The gear icon for settings gives you customisation of the vault.
 
-### Tabs
+##### Tabs
 Just as you'd view firefox or chrome tabs.
-- Left mouse button opens the file, replacing whatever you have open.
+Click on files in your sidebar to open into tabs.
+- Left mouse button opens the file into a tab, replacing whatever you currently have open.
 - Mouse wheel click opens in new tab
 - Right click is context menu
 - A nuanced but convenient feature is "Split right"- this opens a tab on the right side, creating a side-by-side 'book' view of tabs.
 
-### Left vertical shortcut icons
+#### Left vertical icon shortcuts
 ---
-Commonly referenced plugins/commands/shortcuts will be listed here
+Commonly referenced plugins/commands/shortcuts will be listed here in the thin space beside the left sidebar.
 
 ##  Main content view
 ---
@@ -52,25 +54,26 @@ The main window has 3 areas
 
 The top title is self explanatory and easy to recognise.
 
-Adding frontmatter in a way Obsidian recognises requires the use of the immediate line below the title line.
-If you type the trigger in the top line under the title, Obsidian gives you dropdown property menus for frontmatter.
-If you type the 3x hyphens in a row on the second line after the Title, you get:
+Adding frontmatter in a way Obsidian recognises requires the use of the line immediately below the title.
+If you type the trigger (---), Obsidian gives you dropdown menus for creating frontmatter.
+If you type the 3x hyphens in a row below the frontmatter line, you get:
+
+---
 
 
-## Settings
+### Settings
 ---
 
 The settings pane is relatively self explanatory, with the following exceptions:
 
-### General > Account:
-The usefulness of being signed in is not stated in Obsidian settings.
-The practical benefits of an account really depend on paying for the online services.
+#### General > Account:
+The usefulness of being signed in is not stated in Obsidian settings. The practical benefits of an account really depend on paying for the online services.
 
-### Hotkeys>
+#### Hotkeys>
 Are very useful and convenient and save lots of time.
 However best use of hotkeys involves building/having habits.
 
-### Core plugins>
+#### Core plugins>
 There are many core plugins, and none of them are obvious to the novice.
 My advice is disable all of them until you're familiar with Obsidian and have a workflow.
 At that time, gradually test each plugin separately in isolation to get a feel for them.
@@ -84,28 +87,18 @@ File recovery only monitors and tracks markdown content, which means it doesn't 
 Workspaces refers to arrangement of workspace tabs being split horizontally and vertically.
 This is an advanced, and niche feature. It does not refer to the sidebars.
 
-Other notes:
+###### Other notes:
 Command palette, search, slash commands, and quick switcher are all oriented around familiarity with hotkeys.
 
 Sync and Publish involve paying for online sync service.
 
 Templates involve assigning a folder to be the template folder, and then adding files into that folder you want to use as templates.
 
-#### Community plugins>
+##### Community plugins>
 By default, restricted mode is turned on.
-Restricted mode means community plugins cannot be browsed and installed.
-
-#### Examples of community plugins
-Git backup (simple commit and sync repo to index, and remote source)
-
-- More featureful expansions on checklists, tables, tasks, and templates
-- Slides for presentations
-- Mind maps
-- Ledger
-- Basic code linting
-- etc
+Restricted mode means community plugins cannot be browsed and installed. For a brief reference of the most broadly used community plugins, see below.
 
 
 
 [[Frontmatter and links|Frontmatter]]
-
+[[Plugins]]

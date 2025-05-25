@@ -32,11 +32,11 @@ There are 2 different components of links. Though only the link is needed.
 Link, and alias (shorthand reference name).
 The order of link and alias depends on if it's internal or external.
 
-A link is created by double square brackets
-A link alias is triggered/joined with the pipe '|'.
-There should be no spaces between the link and alias.
+A link is triggered by typing double square brackets.
+A link alias is triggered/joined using the pipe '|'.
+There should be no space between the link and alias.
 
-For example, highlight these links:
+For example, in Obsidian highlight these links:
 [[Frontmatter and links|Frontmatter]]
 
 External source

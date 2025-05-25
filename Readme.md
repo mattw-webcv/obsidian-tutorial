@@ -5,6 +5,7 @@ Children:
   - "[[Gui]]"
   - "[[Frontmatter and links|Frontmatter]]"
   - "[[Plugins]]"
+  - "[[Format-Comparison]]"
 aliases:
   - Start Here
 ---

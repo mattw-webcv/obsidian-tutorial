@@ -23,7 +23,7 @@ For best use of this tutorial, download and place it inside your Obsidian vault.
 
 ### After installation
 By now, you hopefully have Obsidian installed and this tutorial; now you'll be faced with many unfamiliar things. If not, please refer to the obsidian download page for more complete instructions.
-The linked pages will overview the various most commonly used facets of Obsidian.
+The very bottom of this page are internal links for other pages in this tutorial. They will overview the various most commonly used facets of Obsidian.
 
 Obsidian references:
 https://obsidian.md/download

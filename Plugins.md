@@ -166,7 +166,7 @@ The right column of each table are the folder names for each plugin, found local
 | Cicada Synchronizer               | cicada-sync                       |
 | Git Integration                   | git-integration                   |
 | Yet Another Obsidian Synchronizer | yet-another-obsidian-synchronizer |
-|                                   | Git Changelog                     |
+| Git Changelog                     |                                   |
 
 | Only for reverse-engineering |                            |
 | ---------------------------- | -------------------------- |

@@ -18,10 +18,11 @@ https://obsidian.md/download
 https://help.obsidian.md/install
 
 ### This Obsidian Tutorial
-https://github.com/mattw-webcv/obsidian-tutorial/tree/main
-On the right above this text, there is a green button '<> Code'
+If you're viewing this tutorial in browser, you'll hopefully be on the github page.
+Above this text, on the right, there is a green button '<> Code'
 Left click, and choose download as zip.
 Unzip the file, and move the files into your vault.
+https://github.com/mattw-webcv/obsidian-tutorial
 
 This folder will be what you locate and use upon opening Obsidian for the first time. For best use of this tutorial, download and place it in your Obsidian vault.
 
